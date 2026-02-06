@@ -7,4 +7,5 @@ BRG006,Flashdisk,25
 BRG007,Headset,10
 BRG008,Webcam,6
 BRG009,Speaker,8
-BRG010,Router,4
+BRG010,Router,30
+BRG011,Kabel LAN,10
