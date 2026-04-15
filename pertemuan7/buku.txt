@@ -1,0 +1,5 @@
+B001,Python untuk Pemula,85000
+B002,Algoritma dan Struktur Data,120000
+B003,Pemrograman Web dengan Laravel,95000
+B004,Database Design,75000
+B005,Clean Code,110000
